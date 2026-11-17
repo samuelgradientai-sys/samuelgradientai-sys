@@ -1,6 +1,6 @@
-"""Genera assets/banner.svg: banner animado (SMIL) para el README del perfil.
+"""Genera assets/banner-logo.svg: banner animado (SMIL) para el README del perfil.
 
-Uso: python scripts/gen_banner.py assets/banner.svg
+Uso: python scripts/gen_banner.py assets/banner-logo.svg
 Para cambiar las frases que se escriben solas, edita LINES.
 """
 import math
