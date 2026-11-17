@@ -25,14 +25,6 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,tailwind,supabase,postgres,docker,linux,bash,rust,swift,git&perline=7" alt="Python, TypeScript, JavaScript, React, Vite, Tailwind, Supabase, PostgreSQL, Docker, Linux, Bash, Rust, Swift, Git">
 </p>
 
-## 📌 Proyectos destacados
-
-| Proyecto | De qué se trata |
-|---|---|
-| 🛡️ [c3rb3r-synology-recovery](https://github.com/samuelgradientai-sys/c3rb3r-synology-recovery) | Rescate de datos de un NAS Synology cifrado por el ransomware C3RB3R: método, herramientas y resultados reales. |
-| 📊 [olist-marketplace-analitica](https://github.com/samuelgradientai-sys/olist-marketplace-analitica) | Dashboard ejecutivo del marketplace Olist con Streamlit + Plotly. |
-| 🏭 [planeacion-control-produccion](https://github.com/samuelgradientai-sys/planeacion-control-produccion) | Material del curso de Planeación y Control de la Producción, organizado para leer con IA. |
-
 ## 🐍 Mi actividad
 
 <p align="center">
